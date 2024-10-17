@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FormularioVuelos</string>
+    <string name="title_activity_reservation_summary">Reservation</string>
+    <string name="nombre">First Name(s)</string>
+    <string name="apellido">Last Name(s)</string>
+    <string name="origen">Select origin</string>
+    <string name="destino">Select destination</string>
+    <string name="fecha_salida">Select departure date</string>
+    <string name="fecha_regreso">Select return date</string>
+    <string name="correo">Email address</string>
+    <string name="num_viajero_frec">Frequent flyer number (optional)</string>
+    <string name="reservar">Book</string>
+    <string name="resumen_reservacion">The reservation summary will appear here</string>
+    <string name="summary_name">Passenger\'s name: %1$s</string>
+    <string name="summary_origin">Origin: %1$s</string>
+    <string name="summary_destination">Destination: %1$s</string>
+    <string name="summary_departure">Departure date and time: %1$s, %2$s</string>
+    <string name="summary_departure_seat">Departure flight seat: %1$s</string>
+    <string name="summary_return">Return date and time: %1$s, %2$s</string>
+    <string name="summary_return_seat">Return flight seat: %1$s</string>
+    <string name="summary_original_price">Original amount: $%1$.2f</string>
+    <string name="summary_final_price">Final amount: $%1$.2f</string>
+    <string name="no_ha_ingrasdo_nombre">You haven\'t entered a first name</string>
+    <string name="no_ha_ingresado_apellido">You haven\'t entered a last name</string>
+    <string name="correo_invalido">Invalid email</string>
+    <string name="destino_diferente">The destination cannot be the same as the origin.</string>
+    <string name="Fecha_regreso_diferente_salida">The return date cannot be the same day as the departure date.</string>
+    <string name="no_se_ha_seleccionado_fecha_salida">No departure date has been selected.</string>
+    <string name="no_se_ha_seleccionado_fecha_regreso">No return date has been selected</string>
+    <string name="SkyFly">SkyFly</string>
+    <string-array name="destinatinos">
+        <item>Cancún</item>
+        <item>Ciudad de México</item>
+        <item>Guadalajara</item>
+        <item>Monterrey</item>
+        <item>Los Cabos</item>
+        <item>Tijuana</item>
+    </string-array>
+</resources>

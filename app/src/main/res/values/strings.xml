@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FormularioVuelos</string>
+    <string name="title_activity_reservation_summary">ReservationSummaryActivity</string>
+    <string name="nombre">Nombre(s)</string>
+    <string name="apellido">Apellido(s)</string>
+    <string name="origen">Seleccione el origen</string>
+    <string name="destino">Seleccione el destino</string>
+    <string name="fecha_salida">Seleccionar fecha de salida</string>
+    <string name="fecha_regreso">Seleccionar fecha de regreso</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="num_viajero_frec">Número de viajero frecuente (opcional)</string>
+    <string name="reservar">Reservar</string>
+    <string name="resumen_reservacion">El resumen de la reservacion aparecera aquí</string>
+    <string name="summary_name">Nombre del pasajero: %1$s</string>
+    <string name="summary_origin">Origen: %1$s</string>
+    <string name="summary_destination">Destino: %1$s</string>
+    <string name="summary_departure">Fecha y hora de salida: %1$s, %2$s</string>
+    <string name="summary_departure_seat">Asiento en vuelo de ida: %1$s</string>
+    <string name="summary_return">Fecha y hora de regreso: %1$s, %2$s</string>
+    <string name="summary_return_seat">Asiento en vuelo de regreso: %1$s</string>
+    <string name="summary_original_price">Monto original: $%1$.2f</string>
+    <string name="summary_final_price">Monto final: $%1$.2f</string>
+    <string name="no_ha_ingrasdo_nombre">No ha ingresado su nombre</string>
+    <string name="no_ha_ingresado_apellido">No ha ingresado apellidos</string>
+    <string name="correo_invalido">El correo no es válido</string>
+    <string name="destino_diferente">El destino no puede ser el mismo que el origen</string>
+    <string name="Fecha_regreso_diferente_salida">La fecha de regreso no puede ser el mismo día que la de salida.</string>
+    <string name="no_se_ha_seleccionado_fecha_salida">No se ha seleccionado fecha de salida</string>
+    <string name="no_se_ha_seleccionado_fecha_regreso">No se ha seleccionado fecha de regreso</string>
+    <string name="SkyFly">SkyFly</string>
+
+    <string-array name="destinatinos">
+        <item>Cancún</item>
+        <item>Ciudad de México</item>
+        <item>Guadalajara</item>
+        <item>Monterrey</item>
+        <item>Los Cabos</item>
+        <item>Tijuana</item>
+    </string-array>
+
+
+</resources>

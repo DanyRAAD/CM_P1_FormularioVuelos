@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6C03FF</color> <!-- Un color púrpura -->
+    <color name="purple_600">#9253EB</color> <!-- Un color púrpura -->
+    <color name="purple_700">#3700B3</color> <!-- Un color púrpura más oscuro -->
+    <color name="teal_200">#03DAC5</color> <!-- Color teal -->
+    <color name="white">#FFFFFF</color> <!-- Color blanco -->
+    <color name="black">#000000</color> <!-- Color negro -->
+</resources>
